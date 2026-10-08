@@ -17,10 +17,8 @@ Luigi Fortuna is with the Department of Electrical Electronic and Computer Engin
 
 | Script | Related Figure(s) | Description |
 | -------- | -------- | -------- |
-| LatinAmerica_GTPP.m   | Fig. 5   | Step and error responses of HO GTPP system and its RO GTPP models: (a). HO GTPP system vs proposed model, (b). HO GTPP system vs
-model I, (c). HO GTPP system vs model II, (d). HO GTPP system vs model III, and (e). HO GTPP system vs model IV.   |
-| LatinAmerica_GTPP.m   | Fig. 6   | mpulse response of HO GTPP system and its RO GTPP models: (a). HO GTPP system vs proposed model, (b). HO GTPP system vs model I, (c).
-HO GTPP system vs model II, (d). HO GTPP system vs model III, and (e). HO GTPP system vs model IV.  |
+| LatinAmerica_GTPP.m   | Fig. 5   | Step and error responses of HO GTPP system and its RO GTPP models: (a). HO GTPP system vs proposed model, (b). HO GTPP system vs model I, (c). HO GTPP system vs model II, (d). HO GTPP system vs model III, and (e). HO GTPP system vs model IV.   |
+| LatinAmerica_GTPP.m   | Fig. 6   | mpulse response of HO GTPP system and its RO GTPP models: (a). HO GTPP system vs proposed model, (b). HO GTPP system vs model I, (c). HO GTPP system vs model II, (d). HO GTPP system vs model III, and (e). HO GTPP system vs model IV.  |
 | LatinAmerica_GTPP.m   | Fig. 7   | Comparison of PEIs for RO GTPP models.   |
 | LatinAmerica_GTPP.m   | Fig. 8   | Bode response of HO GTPP system and its RO GTPP models.   |
 | LatinAmerica_GTPP.m   | Fig. 9   | Pole-zero plot of HO GTPP system and its RO GTPP models.   |
