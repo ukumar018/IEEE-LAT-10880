@@ -15,6 +15,10 @@ S. P. Singh is with the Department of Electrical Engineering Indian Institute of
 Luigi Fortuna is with the Department of Electrical Electronic and Computer Engineering, University of Catania, 95124 Catania, Italy, and CNR IASI, Italaian National Research Council, Institute for Systems Analysis and Computer Science, 00185 Rome, Italy.
 
 
+**Included Scripts**
+
+This repository contains all scripts required to reproduce the primary results.
+
 | Script | Related Figure(s) | Description |
 | -------- | -------- | -------- |
 | BBOptimization.m   | Fig. 4   | Convergence plot of RO GTPP models obtained using optimization algorithms.   |
