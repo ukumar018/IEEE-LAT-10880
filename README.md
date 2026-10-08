@@ -33,5 +33,7 @@ This repository contains all scripts required to reproduce the primary results.
 # Requirements
 
 - MATLAB R2023b.
-  
 - No additional toolboxes are required.
+
+# Contact
+For any query contact First/Corresponding authors.
