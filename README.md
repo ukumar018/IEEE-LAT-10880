@@ -36,4 +36,4 @@ This repository contains all scripts required to reproduce the primary results.
 - No additional toolboxes are required.
 
 # Contact
-For any query contact First/Corresponding authors.
+For any query contact First/Corresponding author.
