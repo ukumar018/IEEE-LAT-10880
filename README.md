@@ -30,3 +30,8 @@ This repository contains all scripts required to reproduce the primary results.
 | LatinAmerica_GTPP.m   | Fig. 8   | Bode response of HO GTPP system and its RO GTPP models.   |
 | LatinAmerica_GTPP.m   | Fig. 9   | Pole-zero plot of HO GTPP system and its RO GTPP models.   |
 
+# Requirements
+
+- MATLAB R2023b.
+  
+- No additional toolboxes are required.
