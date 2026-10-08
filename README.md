@@ -32,7 +32,7 @@ This repository contains all scripts required to reproduce the primary results.
 
 # Requirements
 
-- MATLAB R2023b.
+- MATLAB R2023b or later.
 - No additional toolboxes are required.
 
 # Contact
